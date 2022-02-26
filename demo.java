@@ -3,7 +3,7 @@ class Demo {
 	int b=10;
 	string str="nikita";
 	int c = 45;	
-		
+	int add;	
 	
 	}
 }
